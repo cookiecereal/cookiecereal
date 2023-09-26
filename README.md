@@ -1,4 +1,8 @@
 ### Hi there 👋
+trying to find myself in this technological world 
+currently graduating with my degree in computer science and a minor in math.
+currently sharpening my skills in Java & SQL
+
 
 <!--
 **cookiecereal/cookiecereal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
